@@ -112,8 +112,9 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 10. Which day of the week has the best average ratings per branch?
 
 
-For the rest of the code, check the [https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql](https://github.com/sumitjadhav07/Walmart-Sales-Analysis-SQL-/blob/main/walmart_SQL.sql) file
-
+For the rest of the code, check the  file
+([https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting](https://github.com/sumitjadhav07/Walmart-Sales-Analysis-SQL-/blob/main/walmart_SQL.sql))
+file
 ```sql
 -- Create database
 CREATE DATABASE IF NOT EXISTS walmartSales;
